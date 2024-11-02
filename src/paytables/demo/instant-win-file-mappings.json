@@ -1,0 +1,330 @@
+{
+    "kenoMappings": [
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p0010_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p0010_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p0020_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p0020_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p0050_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p0050_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p0100_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p0100_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p0200_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p0200_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p0300_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p0300_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p0500_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p0500_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB1_p1000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB1_p1000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "1"
+        },
+
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p0020_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p0020_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p0040_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p0040_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p0100_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p0100_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p0200_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p0200_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p0400_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p0400_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p0600_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p0600_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p1000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p1000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB2_p2000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB2_p2000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "2"
+        },
+
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p0030_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p0030_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p0060_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p0060_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p0150_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p0150_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p0300_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p0300_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p0600_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p0600_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p0900_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p0900_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p1500_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p1500_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB3_p3000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB3_p3000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "3"
+        },
+
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p0040_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p0040_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p0080_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p0080_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p0200_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p0200_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p0400_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p0400_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p0800_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p0800_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p1200_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p1200_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p2000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p2000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB4_p4000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB4_p4000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "4"
+        },
+
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p0050_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p0050_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p0100_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p0100_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p0250_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p0250_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p0500_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p0500_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p1000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p1000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p1500_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p1500_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p2500_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p2500_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        },
+        {
+            "revealPath": "VKMB/reveal_VKMB5_p5000_v001.fil",
+            "mechanicPath": "VKMB/gamedef_VKMB5_p5000_v001.fil",
+            "familyID": "300-2238",
+            "pricePoint": "0",
+            "mathVersion": "300-2238-V1",
+            "spots": "5"
+        }
+    ],
+    "defaultLanguage": "en",
+    "defaultPricePoint": "0"
+}

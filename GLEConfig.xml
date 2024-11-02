@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2248" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Yuletide Treasure WLA" version="1.0.1" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="10,20,30,40,50,60,80,100,150,200,250,300,400,500,600,800,900,1000,1200,1500,2000,2500,3000,4000,5000"
+              spots="1:2:3:4:5"
+              productId="3"
+              gamegroup="Keno"
+              languages="en,en_US"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N">
+
+            <!-- KY -->
+            <paymodel modelid="300-2248-001"  revealId="4712" revealVersionId="4701"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Yuletide Treasure : 300-2248-001"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="100"/>
+                      
+            <paymodelConfig modelid="300-2248-001"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2248-001"   clienttype="HTML" configcode="PHLP"/> 
+
+            <!-- GA -->
+            <paymodel modelid="300-2248-002"  revealId="4712" revealVersionId="4701"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Yuletide Treasure : 300-2248-002"
+                      hibethold="22.00" lobethold="22.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="100"/>
+                      
+            <paymodelConfig modelid="300-2248-002"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2248-002"   clienttype="HTML" configcode="PHLP"/> 
+
+            <!-- ZER -->
+        <!--    <paymodel modelid="300-2248-099"  revealId="4712" revealVersionId="4701"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Yuletide Treasure : 300-2248-099"
+                      hibethold="22.00" lobethold="22.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="100"/>
+                      
+            <paymodelConfig modelid="300-2248-099"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2248-099"   clienttype="HTML" configcode="PHLP"/> -->
+
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>
